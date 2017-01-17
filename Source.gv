@@ -1,0 +1,11 @@
+strict digraph "" {
+I;
+S;
+D;
+G;
+L;
+I -> S;
+I -> G;
+D -> G;
+G -> L;
+}
